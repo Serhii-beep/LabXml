@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ScientificSociety>
+  <Cathedra CthdrName="Математики" Cthdr_ID="01" FcltName="Фізико-математичний">
+    <Member Name="Леонард Ейлер" TimeOfEntry="24.08.2018" Sex="Чоловік"/>
+    <Member Name="Джозеф-Луї Лагранж" TimeOfEntry="07.09.2019" Sex="Чоловік"/>
+  </Cathedra>
+  <Cathedra CthdrName="Фізики" Cthdr_ID="02" FcltName="Фізико-математичний">
+    <Member Name="Ісаак Ньютон" TimeOfEntry="13.01.2003" Sex="Чоловік"/>
+    <Member Name="Альберт Ейнштейн" TimeOfEntry="22.02.2020" Sex="Чоловік"/>
+  </Cathedra>
+  <Cathedra CthdrName="Хімії" Cthdr_ID="03" FcltName="Медичний">
+    <Member Name="Дмитро Менделєєв" TimeOfEntry="29.10.2020" Sex="Чоловік"/>
+    <Member Name="Амедео Авогадро" TimeOfEntry="12.05.2015" Sex="Чоловік"/>
+    <Member Name="Нільс Бор" TimeOfEntry="26.07.2017" Sex="Чоловік"/>
+  </Cathedra>
+  <Cathedra CthdrName="Біології" Cthdr_ID="04" FcltName="Медичний">
+    <Member Name="Чарльз Дарвін" TimeOfEntry="17.06.2018" Sex="Чоловік"/>
+  </Cathedra>
+  <Cathedra CthdrName="Літератури" Cthdr_ID="05" FcltName="Гуманітарний">
+    <Member Name="Леся Українка" TimeOfEntry="07.07.2007" Sex="Жінка"/>
+    <Member Name="Іван Франко" TimeOfEntry="19.03.2001" Sex="Чоловік"/>
+    <Member Name="Іван Нечуй-Левицький" TimeOfEntry="22.10.2005" Sex="Чоловік"/>
+    <Member Name="Тарас Шевченко" TimeOfEntry="04.04.2014" Sex="Чоловік"/>
+  </Cathedra>
+</ScientificSociety>
